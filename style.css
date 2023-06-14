@@ -113,7 +113,7 @@ main h1 {
     font-size: 1.8em;
 }
 
-a::main h2 {
+main h2 {
     font-family: var(--fonte-android);
     color: var(--cor4);
     font-size: 1.3em;
